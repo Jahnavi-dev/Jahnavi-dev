@@ -23,11 +23,6 @@
   <li><strong>Styled Components / CSS Modules:</strong> Styling React components.</li>
 </ul>
 
-<h3>Backend Development:</h3>
-<ul>
-  <li><strong>Firebase:</strong> Realtime database, authentication, and cloud functions.</li>
-</ul>
-
 <h3>Databases:</h3>
 <ul>
   <li><strong>MySQL:</strong> SQL databases for structured data management.</li>
